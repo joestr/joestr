@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently working on various projects.
+I'm currently working on various projects.  
+  
+![receives](https://img.shields.io/liberapay/receives/joestr.svg?logo=liberapay)
+![gives](https://img.shields.io/liberapay/gives/joestr.svg?logo=liberapay)
 
 <!--
 **joestr/joestr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
